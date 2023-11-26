@@ -17,7 +17,7 @@ A few resources to get you started if this is your first Flutter project:
 
 If you liked this project, follow me on GitHub for more updates and interesting projects.
 
-*GitHub*: [https://github.com/rioalss](https://github.com/rioalss) 🚀
-*Instagram*: [https://www.instagram.com/rio_alss/](https://www.instagram.com/rio_alss/) ❤
+- **GitHub** : [My GitHub](https://github.com/rioalss) 🚀
+- **Instagram** : [My Instagram](https://www.instagram.com/rio_alss/) ❤
 
 
