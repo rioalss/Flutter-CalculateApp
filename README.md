@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## Preview
-![iPhone 14 Pro Mockup](https://github.com/rioalss/Flutter-CalculateApp/assets/139281503/2999f65c-6121-499e-977e-6efd510d33e3){:height="55%" width="50%"}
+<img src="https://github.com/rioalss/Flutter-CalculateApp/assets/139281503/2999f65c-6121-499e-977e-6efd510d33e3" alt="[Calculator App Mockup" style="width: 50%; height: 50%;">
 
 ## Social Media
 
